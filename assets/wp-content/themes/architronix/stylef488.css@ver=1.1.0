@@ -1,0 +1,15 @@
+/*
+Theme Name: Architronix
+Theme URI: https://themeperch.net/themes/wp/architronix
+Author: Themeperch
+Author URI: https://themeforest.net/user/themeperch/
+Description: Architronix is a modern and professionally designed WordPress theme tailored for architecture firms, interior designers, and construction companies. With a clean and sophisticated layout, Architronix is crafted to showcase your projects, highlight your expertise, and create a memorable online presence for your architectural business.
+Version: 1.1.0
+Requires at least: 5.0
+Tested up to: 6.6.1
+Requires PHP: 5.6
+License: GNU General Public License version 3.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Tags: three-columns, left-sidebar, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready
+Text Domain: architronix
+*/
