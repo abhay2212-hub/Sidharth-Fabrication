@@ -74,6 +74,9 @@ const server = http.createServer((req, res) => {
     if (fs.existsSync(fPath)) {
       return fPath;
     }
+    if (fs.existsSync(fPath + '.html')) {
+      return fPath + '.html';
+    }
     if (qSearch) {
       let fPathWithAt = fPath + qSearch.replace(/^\?/, '@');
       if (fs.existsSync(fPathWithAt)) {
